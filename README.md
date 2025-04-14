@@ -13,7 +13,7 @@ Perform exploratory data analysis (EDA) to understand:
 
 ## 📂 Dataset
 
-The dataset used is the [Titanic dataset](https://www.kaggle.com/c/titanic/data), which includes:
+The dataset used is the [Titanic dataset] which includes:
 - Passenger details such as age, sex, class, fare, etc.
 - Survival status (0 = No, 1 = Yes)
 
