@@ -46,10 +46,6 @@ Key insights derived from the analysis:
 
 ## 📄 Report
 
-A comprehensive Word document summarizing the entire analysis and insights is available in this repository under the name `Titanic_EDA_Analysis_Report.docx`.
+A comprehensive Word document summarizing the entire analysis and insights is available in this repository under the name `Titanic_EDA_Analysis_Report.pdf`.
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/titanic-eda-analysis.git
