@@ -1,5 +1,3 @@
-# Task-5-Elevate-labs-DATA-ANALYST-INTERNSHIP
-
 # 🚢 Titanic Survival Exploratory Data Analysis (EDA)
 
 This project explores the famous **Titanic dataset** using Python libraries such as Pandas, Matplotlib, and Seaborn. The goal is to extract insights and patterns that influenced passenger survival during the Titanic disaster.
